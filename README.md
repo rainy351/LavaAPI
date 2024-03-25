@@ -2,6 +2,8 @@
 A Python API for Lava Payment System - 2024
 
 Forked from `https://github.com/Banjirome/NewLavaAPI`
+
+Добавлена функция для вывода и исправлены некоторые опечатки.
 # LavaAPI documentation
 ## Начало
 Добавьте файл `LavaAPI.py` в проект
